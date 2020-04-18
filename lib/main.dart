@@ -15,12 +15,6 @@ class MyApp extends StatelessWidget {
         home: HomeScreen(),
       ),
     );
-    // return ChangeNotifierProvider(
-    //   create: (_) => GlobalState(),
-    //   child: MaterialApp(
-    //     home: HomeScreen(),
-    //   ),
-    // );
   }
 }
 
